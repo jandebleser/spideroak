@@ -14,4 +14,3 @@ ENTRYPOINT ./run.sh
 ENV HOME=/spideroak
 ENV HEADLESS=true
 
-CMD bash
